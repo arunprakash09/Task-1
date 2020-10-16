@@ -1,64 +1,64 @@
-.Heading{
+.Heading {
   font-size: 20px;
   letter-spacing: 0.6px;
   margin-left: 45%;
-  margin-top: 50px;
+  margin-top: 100px;
 }
-.paragraph{
- width:50%;
+.paragraph {
+  width: 50%;
   height: 10%;
   font-size: 130%;
   line-height: 1.25;
- letter-spacing: 0.6px;
+  letter-spacing: 0.6px;
   margin-left: 25%;
   margin-right: 75px;
   padding-left: 20px;
   text-align: center;
 }
-img{
-	  width: 50%;
-	  height: 60%;
-	  margin-left:25%;
+img {
+  width: 50%;
+  height: 60%;
+  margin-left: 25%;
 }
-.container { 
+.container {
   display: flex;
   width: 60%;
-  height: 100px;
+  height: 200px;
   margin-left: 20%;
-  grid-gap:10%;
-  }
-.square{
-	height: 200%;
-	width: 25%;
+  grid-gap: 10%;
+  margin-bottom: 5%;
 }
-.container1 { 
+.square {
+  width: 25%;
+}
+.container1 {
   display: flex;
   width: 90%;
-  height: 100px;
   margin-left: 5%;
-  grid-gap:10%;
-  }
-.rectangle{
-	border: solid #319cea 5px;
-	width: 40%;
-	height: 70px;
-   font-size: 110%;
-   	text-align: center;
-   letter-spacing: 0.6px;
-      padding: 20px;
+  grid-gap: 10%;
 }
-.circle{
-	background-color: #1fa7f4;
-	border-radius: 100%;
-	width:5%;
-	height:10%;
-	text-align: center;
-	font-size: 40px;
-	padding: 10px;
-	margin-left: 90%;
-	position: sticky;
+.rectangle {
+  border: solid #319cea 5px;
+  width: 40%;
+  height: 70px;
+  font-size: 110%;
+  text-align: center;
+  letter-spacing: 0.6px;
+  padding: 20px;
 }
-.assert{
-	font-family: inter;
-	 text-align: center;
+.circle {
+  background-color: #1fa7f4;
+  border-radius: 100%;
+  width: 5%;
+  height: 10%;
+  text-align: center;
+  font-size: 40px;
+  padding: 10px;
+  margin-left: 90%;
+  position: sticky;
+  bottom: 50;
+}
+.assert {
+  font-family: inter;
+  text-align: center;
 }

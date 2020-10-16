@@ -62,4 +62,25 @@ img {
   font-family: inter;
   text-align: center;
 }
+.blue {
+  background-color: #319cea;
+}
+.green {
+  background-color: #3ed319;
+}
+.purple {
+  background-color: #ba31ea;
+}
+.blue-squ {
+  border: solid #319cea 5px;
+  width: 24%;
+}
+.green-squ {
+  border: solid #3ed319 5px;
+  width: 24%;
+}
+.purple-squ {
+  border: solid #ba31ea 5px;
+  width: 24%;
+}
 

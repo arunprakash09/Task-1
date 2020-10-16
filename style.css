@@ -56,7 +56,7 @@ img {
   padding: 10px;
   margin-left: 90%;
   position: sticky;
-  bottom: 50;
+  bottom: 0;
 }
 .assert {
   font-family: inter;

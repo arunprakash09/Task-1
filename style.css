@@ -22,20 +22,22 @@ img {
 }
 .container {
   display: flex;
-  width: 60%;
-  height: 200px;
-  margin-left: 20%;
-  grid-gap: 10%;
+  width: 110%;
+  height: 190px;
+  justify-content: center;
   margin-bottom: 5%;
+  flex-wrap: wrap;
 }
 .square {
-  width: 25%;
+  width: 15%;
+  margin-right: 10%;
+ 
 }
 .container1 {
   display: flex;
   width: 90%;
   margin-left: 5%;
-  grid-gap: 10%;
+  
 }
 .rectangle {
   border: solid #319cea 5px;
@@ -45,19 +47,24 @@ img {
   text-align: center;
   letter-spacing: 0.6px;
   padding: 20px;
+  margin-right: 3%;
 }
 .circle {
   background-color: #1fa7f4;
   border-radius: 100%;
   width: 5%;
   height: 10%;
-  text-align: center;
   font-size: 40px;
   padding: 10px;
   margin-left: 90%;
   position: sticky;
-  bottom: 0;
+  bottom: 50;
 }
+.assert {
+  font-family: inter;
+  text-align: center;
+}
+
 .assert {
   font-family: inter;
   text-align: center;

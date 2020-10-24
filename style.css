@@ -36,8 +36,7 @@ img {
 .container1 {
   display: flex;
   width: 90%;
-  margin-left: 5%;
-  
+  margin-left: 5%; 
 }
 .rectangle {
   border: solid #319cea 5px;
@@ -64,11 +63,6 @@ img {
   font-family: inter;
   text-align: center;
 }
-
-.assert {
-  font-family: inter;
-  text-align: center;
-}
 .blue {
   background-color: #319cea;
 }
@@ -80,14 +74,16 @@ img {
 }
 .blue-squ {
   border: solid #319cea 5px;
-  width: 24%;
+  width: 14%;
+  margin-right: 10%;
 }
 .green-squ {
   border: solid #3ed319 5px;
-  width: 24%;
+  width: 14%;
+  margin-right: 10%;
 }
 .purple-squ {
   border: solid #ba31ea 5px;
-  width: 24%;
+  width: 14%;
+  margin-right: 10%;
 }
-

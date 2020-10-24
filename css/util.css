@@ -1,0 +1,35 @@
+.text {
+  font-family: inter;
+  text-align: center;
+  letter-spacing: 0.6px;
+  font-size: 1.2em;
+}
+.flex-content{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  }
+  .container {
+    margin-bottom: 5%;
+    flex-wrap: wrap;
+  }
+  .bg-blue {
+    background-color: #319cea;
+  }
+  .bg-green {
+    background-color: #3ed319;
+  }
+  .bg-purple {
+    background-color: #ba31ea;
+  }
+  .blue-squ {
+    border: solid #319cea 5px; 
+  }
+  .green-squ {
+    border: solid #3ed319 5px;
+    
+  }
+  .purple-squ {
+    border: solid #ba31ea 5px;
+  
+  }

@@ -1,0 +1,40 @@
+.heading {
+  margin-top: 30px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.paragraph {
+  width: 50%;
+  margin-left: 21%;
+}
+img {
+  width: 50%;
+  height: 60%;
+}
+.square {
+  width: 16%;
+  height: 180px;
+  margin-right: 10%;
+  max-width: 200px;
+  justify-content: space-evenly;
+}
+.rec-container {
+  width: 90%;
+  margin-left: 5%; 
+}
+.rectangle {
+  width: 40%;
+  height: 70px;
+  padding: 20px;
+  margin-right: 3%;
+}
+.circle {
+  border-radius: 100%;
+  width: 2%;
+  height: 5%;
+  padding: 10px;
+  position: sticky;
+  bottom: 0;
+  font-weight: bold;
+  margin-left: 90%;
+}
